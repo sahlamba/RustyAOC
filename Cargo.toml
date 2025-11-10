@@ -9,3 +9,7 @@ lazy_static = "1.4.0"
 [[bin]]
 name = "2023_day01"
 path = "src/2023/day01/main.rs"
+
+[[bin]]
+name = "2023_day03"
+path = "src/2023/day03/main.rs"
